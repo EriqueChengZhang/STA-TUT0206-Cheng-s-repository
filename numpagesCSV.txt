@@ -1,0 +1,11 @@
+NumPages,Thick,List Price,Hard_or_Paper
+100,0.5,10,Hard
+200,1.0,20,Paper
+150,0.75,15,Hard
+300,1.5,30,Paper
+250,1.25,25,Hard
+350,1.75,35,Paper
+400,2.0,40,Hard
+450,2.25,45,Paper
+500,2.5,50,Hard
+550,2.75,55,Paper
